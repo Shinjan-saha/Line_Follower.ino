@@ -1,26 +1,37 @@
 # Line Follower Bots
-<img height=220 src="/images/radar input.jpg" alt="radar">
+<img height=240 width=250 src="/img/robo2.jpg" alt="radar">
 <br>
+
+# Parts Required For Building The Bot:-
+
+<ul>
+  <li>Jumper Wires</li>
+  <li>Breadboard</li>
+  <li>Chasis(Plywood or Fibre)</li>
+  <li> 2 Bo Motor</li>
+  <li> 2 IR Sensor(Used for detecting White or Black Background & Line)</li>
+  <li>Arduino UNO R3(Main Computing Part of the Bot)</li>
+  <li>2 Wheel</li>
+  <li>ln238 Motor Drive(Used for Commanding Motor )</li>
+  <li>Charger(coaxial power connectors) Or Battery (9-12V) </li>
+</ul>
+
+
+
+
+
 
 
 # Black_Line_Follower
 
-<img height=180 src="/images/Arduino_snap.png" alt="Arduino ide">
-<br> Here is the radar code written in Arduino file(ino file).
+<p>Here You will find my Code for Black Line with White Background</p>
 
 
-# Radar_Output
-Here you can Find the code for showing in output or radar Screen it is written in an processing ide called "processing 4".You need to download it<br>
-<img height=180 src="/images/processing4.png" alt="processing4">
-<br> It uses 3 java libary mainly:-
-<ul>
-  <li>processing.serial(imports libary for serial communication)</li>
-<li>java.awt.event.KeyEvent(imports library for reading the data from the serial port)</li>
-<li>java.io.IOException</li>
-  </ul>
+# White_Line_Follower
+<p>Here You will find my code For White Line With Black Background</p>
 
-# Here is the output Screen Showing Detection of the Object 
-<img height=220 src="/images/working radar.png" alt="radar screen">
+
+
 
 
 
